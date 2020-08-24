@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",1.Zee Bangla
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.Zee Bangla HD
-http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",3.Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png"
@@ -44,4 +44,49 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 #EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="Kids",20.Sonic
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",21.ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",22.Zee TV HD Canada
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",23.Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",24.Zee Bollywood
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",25.Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",26.Sony Max
+http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",27.Sony Max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",28.Sony Sab HD
+http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",29.Sony Pix HD
+http://103.205.133.19/hls/sonypix.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",30.Colors Bangla
+https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",31.Colors Bangla HD
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",32.Colors
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",33.Colors HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",34.And TV HD
+http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",35.And Pictures
+http://103.205.133.14/hls/andpicture.m3u8
+
+
+
+
+
 
