@@ -1,155 +1,347 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [10:21pm]",
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",1.Zee Bangla
-http://103.205.133.14/hls/zeebangla.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png"
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",2.Star Jalsha HD
-http://103.205.133.14/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",3.Zee Bangla Cinema
-http://103.141.66.36/bpk-tv/10263/default/index.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",4.Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",5.Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,6.Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",7.Star Plus
-https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",8.Star Plus HD
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",9.Star Gold
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",10.Star Gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",11.Cartoon Network
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",12.Sony TV
-http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",13.Nick HD+
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",14.Disney Channel
-http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",15.Sony Yay
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids",16.Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",17.Cheebies Asia
-https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:0 tvg-country="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="Kids",18.Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",19.Mr Bean Show
-http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
-#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="Kids",20.Sonic
-https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",21.ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",22.Zee TV HD Canada
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",23.Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",24.Zee Bollywood
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",25.Sony Aath
-http://103.205.133.14/hls/sony8.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",26.Sony Max
-http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",27.Sony Max HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",28.Sony Sab HD
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",29.Sony Pix HD
-http://103.205.133.19/hls/sonypix.m3u8
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",30.Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",31.Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",32.Colors
-https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",33.Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
-
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",34.And TV HD
-http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",35.And Pictures
-http://103.205.133.14/hls/andpicture.m3u8
-
-
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",36.BTV
-http://103.205.133.14/hls/btv.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",37.Ekattor HD
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",38.GTV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",39.DBC News HD
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",40.News 24 HD
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",41.Shomoy TV
-http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi",42.Independent
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi",43.CHANNEL 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi",44.Channel 9 HD
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi",45.Deepto TV HD
-http://103.205.133.19/hls/deeptotv.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",46.JAMUNA TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",47.Channel I HD
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi",48.Maasranga HD
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",49.SATV HD
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",50.RTV HD
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangladeshi",51.RTV Music HD
-http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",52.NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",53.Banglavision HD
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangladeshi",54.Movie Bangla TV
-http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi",55.Boishakhi
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",56.ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxBP6wvL_QiwtjbRIhVmtkOyjAIYg-ynX1rQ&usqp=CAU" group-title="Bangladeshi",57.ATN Bangla UK
-http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi",58.ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Bangladeshi",59.ATN Islam
-http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",60.Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",61.Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",62.My TV HD
-https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangladeshi",63.MY Cinema
-http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-
-
+#EXTINF:-1 ,Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66829
+#EXTINF:-1 ,Website : ahlakid.com
+http://rstr0.teamnetwork.co/stream166/stream.m3u8
+#EXTINF:-1 ,Website : ahlakid.com
+http://onlymain.uk0102.com:8080/KdgbKs/g287AyNvJi/57842
+#EXTINF:-1 ,Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50490
+#EXTINF:-1 ,Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23335
+#EXTINF:-1 ,XXX | ALBA XXX 1_Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50495
+#EXTINF:-1 ,XXX | ALBA XXX 2
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50493
+#EXTINF:-1 ,XXX | ALBA XXX 3_Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50491
+#EXTINF:-1 ,XXX | ALBA XXX 5
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50489
+#EXTINF:-1 ,XXX | ALBA XXX 6_Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/50488
+#EXTINF:-1 ,XXX | Alba XXX 2 HD
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/35875
+#EXTINF:-1 ,XXX | Alba XXX 1 HD
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/35874
+#EXTINF:-1 ,XXX | Redlight FHD (18 )_Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/79176
+#EXTINF:-1 ,XXX | Pure Taboo FHD (18 )
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/79166
+#EXTINF:-1 ,XXX | Playboy TV (18 )
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/79171
+#EXTINF:-1 ,XXX | Perv Mom FHD (18 )_Website : ahlakid.com
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/79187
+#EXTINF:-1 ,XXX | Penthouse Gold FHD (18 )
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/79168
+#EXTINF:-1 ,XXX | Oldtimer
+http://nomorecable.xyz:80/TAPEJS5Tyh/BH3bLLALcO/35877
+#EXTINF:-1 ,VIP-XXX: Adult2_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/19063
+#EXTINF:-1 ,VIP-XXX: Adult3
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/19062
+#EXTINF:-1 ,VIP-XXX: Adult5_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/19005
+#EXTINF:-1 ,VIP-XXX: Adult4_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23424
+#EXTINF:-1 ,VIP-XXX: Adult7
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/19061
+#EXTINF:-1 ,XXX: Adult2
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23723
+#EXTINF:-1 ,XXX: Adult4_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23730
+#EXTINF:-1 ,XXX: Adult5
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23731
+#EXTINF:-1 ,XXX: Adult6_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23732
+#EXTINF:-1 ,XXX: Adult7
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23733
+#EXTINF:-1 ,XXX: Adult8_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23881
+#EXTINF:-1 ,XXX: Adult9
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23938
+#EXTINF:-1 ,XXX: Adult10
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23939
+#EXTINF:-1 ,XXX: MOFOS FHD_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23345
+#EXTINF:-1 ,XXX: PENTHOUSE GOLD HD
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/19065
+#EXTINF:-1 ,XXX: PRIVATE
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/25928
+#EXTINF:-1 ,XXX: ALBA XXX 1 HD_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/26184
+#EXTINF:-1 ,XXX: EROTIC 1
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23334
+#EXTINF:-1 ,XXX: EROTIC 6_Website : ahlakid.com
+http://doom2-iptv.net:2082/234744688930/5f3d1d2961f3f/23339
+#EXTINF:-1 ,XXX:SEXTREME_LA6_ CREATED BY  : ahlakid.com
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28485
+#EXTINF:-1 ,XXX:SEXTREME_LA5
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28486
+#EXTINF:-1 ,XXX:SEXTREME_LA3_ CREATED BY  : ahlakid.com
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28487
+#EXTINF:-1 ,XXX:SEXTREME_LA2
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28488
+#EXTINF:-1 ,XXX:SEXTREME_LA1_ CREATED BY  : ahlakid.com
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28489
+#EXTINF:-1 ,XXX:VENUS_LA5
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28490
+#EXTINF:-1 ,XXX:VENUS_LA4
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28491
+#EXTINF:-1 ,XXX:VENUS_LA3_ CREATED BY  : ahlakid.com
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28492
+#EXTINF:-1 ,XXX:VENUS_LA2
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28493
+#EXTINF:-1 ,XXX:VENUS_LA1_ CREATED BY  : ahlakid.com
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28494
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 23
+http://randomserver.site:2086/crystal/12345/66845
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 24
+http://randomserver.site:2086/crystal/12345/66846
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 15
+http://randomserver.site:2086/crystal/12345/66829
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 16
+http://randomserver.site:2086/crystal/12345/66828
+#EXTINF:-1 ,Website : ahlakid.com_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91376
+#EXTINF:-1 ,Website : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91378
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 15_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91379
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 16
+http://randomserver.site:2086/crystal/12345/91380
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -04 -AMANDA
+http://randomserver.site:2086/crystal/12345/91485
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -05 -ANABELA_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91486
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 17_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91381
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 18
+http://randomserver.site:2086/crystal/12345/91382
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 19_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91383
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 20
+http://randomserver.site:2086/crystal/12345/91384
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -01 - RISSA MAWebsite : ahlakid.com_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91482
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -02 -ADRIANA LYNN
+http://randomserver.site:2086/crystal/12345/91483
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -03 -ALLISON BANKS_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91484
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -06 -ARIADNA
+http://randomserver.site:2086/crystal/12345/91487
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -07 -ARIANA AND GABRIELLA
+http://randomserver.site:2086/crystal/12345/91488
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -08 -CHICHI MEDINA_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91489
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -09 -CHLOE FOSTER
+http://randomserver.site:2086/crystal/12345/91490
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -10 -DAKOTA SKYE
+http://randomserver.site:2086/crystal/12345/91491
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -11 -DEMIDA
+http://randomserver.site:2086/crystal/12345/91492
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -12 -DUSYA
+http://randomserver.site:2086/crystal/12345/91493
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -13 -GERTA
+http://randomserver.site:2086/crystal/12345/91494
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -14 -IRINA_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91495
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -15 -JANE
+http://randomserver.site:2086/crystal/12345/91496
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -16 -LACIE CHANNING
+http://randomserver.site:2086/crystal/12345/91497
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -17 -MIRABELLA
+http://randomserver.site:2086/crystal/12345/91498
+#EXTINF:-1 ,Website : ahlakid.com: TEAM SKEET -18 -SASHA_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91499
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 02
+http://randomserver.site:2086/crystal/12345/66842
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 03
+http://randomserver.site:2086/crystal/12345/66841
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 04_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66840
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 05
+http://randomserver.site:2086/crystal/12345/66839
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 06
+http://randomserver.site:2086/crystal/12345/66838
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 07_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66837
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 08
+http://randomserver.site:2086/crystal/12345/66836
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 09
+http://randomserver.site:2086/crystal/12345/66835
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 10_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66834
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 13
+http://randomserver.site:2086/crystal/12345/66831
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 14_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66830
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 17_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66827
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 19_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66825
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 21
+http://randomserver.site:2086/crystal/12345/66823
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 22_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66822
+#EXTINF:-1 ,Website : ahlakid.com: WANKZONE 25_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/66847
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 01_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91364
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 02
+http://randomserver.site:2086/crystal/12345/91365
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 03_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91366
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 04
+http://randomserver.site:2086/crystal/12345/91368
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 05
+http://randomserver.site:2086/crystal/12345/91369
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 06_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91370
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 07
+http://randomserver.site:2086/crystal/12345/91371
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 08
+http://randomserver.site:2086/crystal/12345/91372
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 09_ CREATED BY  : ahlakid.com
+http://randomserver.site:2086/crystal/12345/91373
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 10
+http://randomserver.site:2086/crystal/12345/91374
+#EXTINF:-1 ,Website : ahlakid.com: BRAZIL TUBE - 11
+http://randomserver.site:2086/crystal/12345/91375
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66830
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66828
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66827
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91380
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91381
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91383
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66825
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66823
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66822
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91364
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91365
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91366
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91368
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91369
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91373
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91374
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91375
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91376
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91377
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91378
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91379
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91370
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91371
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91372
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91384
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91483
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91484
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66845
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66846
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66847
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91486
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91487
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91488
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91489
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91490
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91491
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91492
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91493
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91494
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91495
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91496
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91497
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/91498
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/91499
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66538
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/72539
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93540
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93541
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93542
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/93543
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93544
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93545
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/93546
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93547
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/93548
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93549
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/93550
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93551
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/93552
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66842
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66841
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66840
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66839
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66838
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66837
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66836
+#EXTINF:-1 ,XXX
+http://randomserver.site:2086/Bria/Bria/66835
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66834
+#EXTINF:-1 ,XXX_Website : ahlakid.com
+http://randomserver.site:2086/Bria/Bria/66831
