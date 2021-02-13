@@ -2,19 +2,21 @@
 #EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [10:21pm]",
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",1.Zee Bangla
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",2.Star Jalsha HD
-http://103.205.133.50/hls/chsj.m3u8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",3.Zee Bangla Cinema
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",3.Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",4.Zee TV
-http://103.205.133.50/hls/zeetv.m3u8#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",5.Jalsha Movies
+http://10.16.100.201/hindi/ztv_1stop_in.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",5.Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,6.Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",7.Star Plus
-http://103.205.133.50/hls/chsp.m3u8#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",8.Star Plus HD
-http://103.205.133.50/hls/chsp.m3u8#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",9.Star Gold
+http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",8.Star Plus HD
+http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",9.Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",10.Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
