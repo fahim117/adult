@@ -8,3 +8,30 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla",5.Akaash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",6.Star Plus
+http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",7.Sony TV
+http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",7.Zee TV HD
+http://10.16.100.201/hindi/ztv_1stop_in.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",8.Colors HD
+http://10.16.100.201/hindi/colors_1stop_in.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",9.And TV HD
+http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",10.And Pictures
+http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="Others",11.B4U Movies
+http://10.16.100.201/hindi/bforumovies_1stop_in.m3u8
+
+
+
+
+
+
+
+
+
+
+
