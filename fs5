@@ -3,7 +3,7 @@ http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1567750
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.Zee Bangla
 http://172.16.128.2:8081/live/sky2002/chunks.m3u8?nimblesessionid=1569057
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",3.Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
+http://103.190.35.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=14acebab66ad9d875a16e9f777ed4068f55375c3-28a4373d8133a23d5741cef8652462c4-1669842790-1669831990
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",4.Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla",5.Akaash Aath
