@@ -1,65 +1,13 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",1.Star Jalsha HD
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1567750
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.Zee Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+http://172.16.128.2:8081/live/sky2002/chunks.m3u8?nimblesessionid=1569057
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",3.Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",4.Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Indian Bangla",5.Akaash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",6.Star Plus
-http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",7.Sony TV
-http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",8.Zee TV HD
-http://10.16.100.201/hindi/ztv_1stop_in.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",9.Colors HD
-http://10.16.100.201/hindi/colors_1stop_in.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",10.And TV HD
-http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",11.And Pictures
-http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="Others",12.B4U Movies
-http://10.16.100.201/hindi/bforumovies_1stop_in.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",13.Sony Pix HD
-http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",14.Zee Cinema
-http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
-
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi",15.Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",16.ATN Bangla
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",17.Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",18.Banglavision HD
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",19.Channel I HD
-http://10.16.100.205/hls/ch_i.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi",20.CHANNEL 24
-http://10.16.100.205/hls/ch24.m3u8
-
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="Bangladeshi",21.Desh TV
-http://10.16.100.205/hls/des_tv_local480.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",22.GTV HD
-http://10.16.100.203:8082/bangla/gtv.m3u8
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",23.JAMUNA TV
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",24.RTV HD
-http://10.16.100.203:8082/bangla/TV_R.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",25.NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
 
 
 
