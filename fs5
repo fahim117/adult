@@ -1,19 +1,24 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",1.FTP 1
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.Toffe 1080
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",3.Toffe 480
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",4.GTV HD
-https://tvs2.aynaott.com/banglavision/tracks-v1a1/index-1671091200-now.m3u8?hdnts=st%3D1671093729%7Eexp%3D1671123729%7Eacl%3D%2Fbanglavision%2F%2A%7Edata%3D103.143.0.34-WEB%7Ehmac%3D6d45dc109106cc7152a7de21e29735469a8440beb5a5ad194d8ca953a2f8c91f
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",5.GTV HD 2
-https://tvs1.aynaott.com/gtvhdforgame/tracks-v1a1/mono.m3u8?hdnts=st%3D1671093785%7Eexp%3D1671123785%7Eacl%3D%2Fgtvhdforgame%2F%2A%7Edata%3D103.143.0.34-WEB%7Ehmac%3D6b47980a81bd3a69833ddc7a1461b6fa4d54d67c342cb96b94374839986114b6
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports
-https://tvs3.aynaott.com/tsports/tracks-v1a1/mono.m3u8?hdnts=st%3D1671094280%7Eexp%3D1671124280%7Eacl%3D%2Ftsports%2F%2A%7Edata%3D103.143.0.34-WEB%7Ehmac%3Dfe392e622da19bccf8946da4d0b8885738603cf5045d4ca8b29643323b4bfc9c
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports 2
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1671091200-now.m3u8?hdnts=st%3D1671094362%7Eexp%3D1671124362%7Eacl%3D%2Ftsportshd%2F%2A%7Edata%3D103.143.0.34-WEB%7Ehmac%3Dd02b3b6c16b5892919885e6296fc25c692ade9b94128f2c0ddcc40b01afc9ce8
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",4.GTV HD
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",5.GTV HD 2
+youtube-dl --no-part --restrict-filenames "http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports
 
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports 2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
