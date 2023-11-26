@@ -1,25 +1,25 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",1.FTP 1
-tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.Toffe 1080
-tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",3.Toffe 480
-tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",4.GTV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",5.GTV HD 2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports
-tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+thttp://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports 2
-tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",4.GTV HD
-tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",5.GTV HD 2
-tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports
-
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",6.T Sports 2
-
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
