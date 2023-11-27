@@ -103,6 +103,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",52.CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1,T Sports
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTM3U
 #EXTINF:-1,iptvtools_2
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
