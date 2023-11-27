@@ -102,6 +102,14 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",52.CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",53.Sab
+https://tvs1.aynaott.com/SabHD/tracks-v1a1/mono.m3u8?hdnts=st=1701074702~exp=1701104702~acl=/SabHD/*~data=118.179.190.241-WEB~hmac=176628305173e16ed9a2abcbbe002b146a2e659f2768732f2d49469e19f35ee8
+
+
+
+
+
+
 
 
 #EXTINF:-1,T Sports
