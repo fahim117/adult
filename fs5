@@ -102,12 +102,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",52.CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",53.Sab
-https://tvs1.aynaott.com/SabHD/tracks-v1a1/mono.m3u8?hdnts=st=1701074702~exp=1701104702~acl=/SabHD/*~data=118.179.190.241-WEB~hmac=176628305173e16ed9a2abcbbe002b146a2e659f2768732f2d49469e19f35ee8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",54.Sab
-https://tvs1.aynaott.com/SabSD/tracks-v1a1/mono.m3u8?hdnts=st=1701074825~exp=1701104825~acl=/SabSD/*~data=118.179.190.241-WEB~hmac=f0205058af94bb0c0c2ffcf7b1587aa966a3ef4244b5602a8e44ecab35fe0232
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",55.tsp
-http://113.212.111.246:8080/hls/col12.m3u8
+https://113.212.111.246:8080/hls/col12.m3u8
+
 
 
 
