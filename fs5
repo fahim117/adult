@@ -1,7 +1,7 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",1.GaziTV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+http://10.0.45.1:8080/encoder-1/tracks-v1a1/mono.m3u8?token=434a5d684eb013588684a2468de0378c66a31e5f-4b6857870902ddb45bb80c603fecc414-1708101331-1708094131
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",2.TSports-Live
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+http://10.0.45.1:8080/encoder-1/tracks-v1a1/mono.m3u8?token=434a5d684eb013588684a2468de0378c66a31e5f-4b6857870902ddb45bb80c603fecc414-1708101331-1708094131
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",3.LiveSP
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",4.sonysix
